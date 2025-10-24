@@ -42,11 +42,10 @@ The training curves show a clear decrease in loss and a steady increase in accur
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/svm-mnist-classifier.git](https://github.com/YOUR_USERNAME/svm-mnist-classifier.git)
-    cd svm-mnist-classifier
+    git clone https://github.com/Derrick-M99/svm-mnist-classifier.git
     ```
 
-2.  **Create a virtual environment (recommended):**
+2.  **Create a virtual environment:**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
